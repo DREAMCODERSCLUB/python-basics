@@ -1,0 +1,4 @@
+Learning Python is fun. Python makes automation easy and powerful.
+With Python, you can build apps, analyze data, and explore AI.
+Python is one of the most popular programming languages in the world.
+This file is just a sample text for testing the Python word counter program.
